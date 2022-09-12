@@ -1,6 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.h> 
+#include <stdio.h>
+
+/*Betty style doc for function main goes there*/
 /**
  * main - print the string in the printf function
  *
