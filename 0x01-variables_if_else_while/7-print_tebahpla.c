@@ -9,10 +9,8 @@
  */
 
 int main(void)
-	
 {
 	char c;
-
 	if (c = 'z'; c >= 'a'; c++)
 	putchar(c);
 
