@@ -8,8 +8,10 @@
  */
 
 int main(void)
-char ch = ()
+
 {
+char ch;
+
 	for (ch = 'a'; ch < 'f'; ch++);
 		putchar ("ch\n");
 	return (0);
