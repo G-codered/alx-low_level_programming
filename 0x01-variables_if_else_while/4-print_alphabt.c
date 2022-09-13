@@ -1,5 +1,5 @@
 #include <stdio.h>
-                                                  /**
+/**
  * main - print the string in the putchar function
  *
  * Descripton: the main function
