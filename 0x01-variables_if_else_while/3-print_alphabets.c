@@ -5,6 +5,7 @@
  *
  * Descripton: the main function
  * this program prints both lowercase and uppercase alphabets
+ * Return: (0)
  */
 
 int main(void)
@@ -18,6 +19,6 @@ int main(void)
 	for (ch = 'A' ; ch <= 'Z' ; ch++)
 	putchar (ch);
 
-	putchar ('\n');  
+	putchar ('\n');
 	return (0);
 }
