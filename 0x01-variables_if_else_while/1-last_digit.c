@@ -5,7 +5,7 @@
 /**
  * main - print the string in the printf function
  *
- * Description: the function in the main, this program prints lesser than, greater than, equal to and not equal to
+ * Description: the function in the main, prints l<, >, ==, or not equal to
  * Return: (0)
  */
 
