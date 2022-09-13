@@ -10,9 +10,9 @@
 int main(void)
 
 {
-char ch;
-
+	char ch;
 	for (ch = 'a'; ch < 'f'; ch++);
-		putchar ("ch\n");
+		putchar ("ch");
+		putchar ("\n");
 	return (0);
 }
