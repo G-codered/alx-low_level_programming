@@ -12,12 +12,12 @@ int main(void)
 {
 	char c;
 	if (c = '0'; c <= '9'; c++)
-	printchar(c);
+	putchar(c);
 
 	if (c = 'a'; c <= 'f'; c++)
-	printchar(c);
+	putchar(c);
 
-	printchar('\n');
+	putchar('\n');
 	return (0);
 }
 
