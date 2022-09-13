@@ -4,7 +4,6 @@
  *
  * Descriiption: using main function
  * this program prints numerals
- *
  * Return: (0)
  */
 
